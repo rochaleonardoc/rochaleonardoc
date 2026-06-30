@@ -6,7 +6,7 @@ Unindo 5 anos de experiência prática em Planejamento e Controle da Produção 
 
 - 🛠️ **No que estou trabalhando:** Construindo o ecossistema do **Projeto Phoenix** (Uma suíte de softwares industriais: APIs de PCP, Dashboards de OEE e Assistentes de IA).
 - 🐍 **Stack Principal:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, React, TypeScript.
-- ✉️ **Contato:** seu.email@email.com
+- ✉️ **Contato:** ep.leonardorocha@gmail.com
 
 ---
 
