@@ -1,15 +1,12 @@
-# Olá, eu sou o Leonardo Rocha 👋
+Olá, eu sou o Leonardo
+Engenheiro de Software formado, trabalhando com PCP na indústriae construindo minha carreira em desenvolvimento backend com Java.
 
-Engenheiro de software em transição para Cybersecurity (Blue Team e SOC), em Poços de Caldas, MG.
+Aprendo construindo: cada conceito novo vira um experimento ou projeto.
 
-## O que estou estudando agora
-- Networking in Cisco Academy
+Em construção agora
+world-lab — simulação de sociedades artificiais que evolui junto com meus estudos
+java-lab — exercícios e mini-experimentos, organizados por fase
+Interesses
+Backend · algoritmos · simulações · sistemas complexos · história e economia
 
-## Projetos em destaque
-
-
-## Ferramentas
-
-
-## Contato
-LinkedIn: https://www.linkedin.com/in/leonardo-c-rocha/ | E-mail: ep.leonardorocha@gmail.com
+Contato LinkedIn
